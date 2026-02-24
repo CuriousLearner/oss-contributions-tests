@@ -6,6 +6,14 @@ include:
     - "python/cpython"
   orgs:
     - "django"
+    - "python"
+    - "djangocon"
+    - "mozilla"
+    - "beeware"
+    - "apppackio"
+    - "jazzband"
+    - "HypothesisWorks"
+    - "oppia"
 
 # Optional: exclude specific repos or orgs
 # exclude:
