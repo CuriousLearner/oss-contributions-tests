@@ -1,11 +1,11 @@
 username: "CuriousLearner"
 
 # Optional: only include PRs from specific repos or orgs
-# include:
-#   repos:
-#     - "python/cpython"
-#   orgs:
-#     - "django"
+include:
+  repos:
+    - "python/cpython"
+  orgs:
+    - "django"
 
 # Optional: exclude specific repos or orgs
 # exclude:
