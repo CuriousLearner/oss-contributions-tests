@@ -1,0 +1,25 @@
+username: "CuriousLearner"
+
+# Optional: only include PRs from specific repos or orgs
+# include:
+#   repos:
+#     - "python/cpython"
+#   orgs:
+#     - "django"
+
+# Optional: exclude specific repos or orgs
+# exclude:
+#   repos:
+#     - "some/repo"
+#   orgs:
+#     - "some-org"
+
+# Optional: override display names and descriptions
+# repo_overrides:
+#   python/cpython:
+#     display_name: "CPython"
+#     description: "The Python programming language"
+
+output:
+  file: "README.md"
+  heading: "## Open-Source Contributions"
