@@ -61,6 +61,7 @@
 **[cpython](https://github.com/python/cpython) (The Python programming language)**
 
 * [#141624](https://github.com/python/cpython/pull/141624): gh-69113: Fix doctest to report line numbers for __test__ strings
+* [#141597](https://github.com/python/cpython/pull/141597): gh-138577: Fix keyboard shortcuts in getpass with echo_char
 * [#141586](https://github.com/python/cpython/pull/141586): gh-48752: Add readline.get_pre_input_hook() function
 * [#15206](https://github.com/python/cpython/pull/15206): bpo-26543: Fix IMAP4.noop when debug mode is enabled
 * [#13260](https://github.com/python/cpython/pull/13260): [3.7] bpo-36822: Fix minor grammatical error in glossary.rst (GH-13145).
